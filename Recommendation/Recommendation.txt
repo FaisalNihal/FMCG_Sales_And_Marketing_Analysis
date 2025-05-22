@@ -1,0 +1,13 @@
+ Recommendation:
+
+1.Dhaka has low % of loyal customer (**3%** less then overall) which impact the revenue as loyal customer's sales amount per order is high. **Convert potential loyal customer to loyal customer** by providing special offer  on high purchase amount
+
+2.**Increase the stock of high selling product and decrease the stock of low selling product of beverage**. Introduce discount offer for beverage as discount offer .
+
+3.**Proper pricing strategy (increase price/decrease cost) for high price product (40-55)** as it has lowest profit% although it provides highest revenue(specially for snacks and personal care item)
+
+4.**Provide more discount offer reducing other offer in online channel as in online channel**, discount offer has highest profit%(32%) and highest sales quantity per order value(10)
+
+5.**Introduce some new products of personal care** as though it has low product number, but it has highest profit%(37.3%) and highest sales revenue per product value($2896)
+
+6.**Reconnect with lost and at risk customer** and provide special discount offer for high and mid range price product
