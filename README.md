@@ -109,7 +109,9 @@ Additional Features:
 ###  Customer Insights
 
 1.**RFM analysis** categorized customers into Loyal, Potential Loyalist, and At Risk segments, churned and new customes
+
 2.Marketing promotions boosted sales for Potential Loyalists by **15%**, validating the importance of targeted offers.
+
 3.The top **20%** of customers accounted for a major share of total sales, reinforcing loyalty strategies.
 
 ![Customer](https://github.com/user-attachments/assets/22b4a33f-9320-454e-815d-bf832dfc0404)
@@ -119,8 +121,11 @@ Additional Features:
 ###  Marketing Effectiveness
 
 1.**Snacks**: Bundle offers drove a **110.6%** sales increase, capturing **85.9%** of total revenue.
+
 2. **Personal Care**: Discounts led to a **214.4%** daily sales boost, maintaining **86.2%** revenue share.
+ 
 3. **Beverages**: Promotions resulted in a **473.2%** rise in sales, though profits dropped by **27.84%**.
+   
 4. **Dairy**: Sales surged by **462.6%** under bundle offers, holding **73.1%** of total revenue.
 
 ![new_marketing](https://github.com/user-attachments/assets/89f5681d-fbab-45f7-9823-8055d28e1553)
@@ -132,10 +137,14 @@ Additional Features:
 ### Problems
 
 1.**Dhaka** is the **lowest  revenue** generating region ( Lowest number of customer and low  revenue per customer value)
+
 2.**Beverage** has very **low sales per product** value in compare to it's number of products( Highest number of products in beverage category)
+
 3.40-55 price range contributes most  both in revenue **(54%)** and sales quantity **(37%)**, but it provides very **low profit%** (especially in snacks)
+
 4.**Low revenue per customer** generates in **online channel**, while profit% is also lower then other 2 channels
-5.5.High number of lost customers **(19.40%)** and at risk customers **(24%)** who have high chance of becoming lost customers
+
+5.High number of lost customers **(19.40%)** and at risk customers **(24%)** who have high chance of becoming lost customers
 
 
 
@@ -144,11 +153,16 @@ Additional Features:
 ### Recommendation
 
 1.Dhaka has low % of loyal customer (**3%** less then overall) which impact the revenue as loyal customer's sales amount per order is high. **Convert potential loyal customer to loyal customer** by providing special offer  on high purchase amount
+
 2.**Increase the stock of high selling product and decrease the stock of low selling product of beverage**. Introduce discount offer for beverage as discount offer .
+
 3.**Proper pricing strategy (increase price/decrease cost) for high price product (40-55)** as it has lowest profit% although it provides highest revenue(specially for snacks and personal care item)
+
 4.**Provide more discount offer reducing other offer in online channel as in online channel**, discount offer has highest profit%(32%) and highest sales quantity per order value(10)
-5.5.**Introduce some new products of personal care** as though it has low product number, but it has highest profit%(37.3%) and highest sales revenue per product value($2896)
-6.6.**Reconnect with lost and at risk customer** and provide special discount offer for high and mid range price product
+
+5.**Introduce some new products of personal care** as though it has low product number, but it has highest profit%(37.3%) and highest sales revenue per product value($2896)
+
+6.**Reconnect with lost and at risk customer** and provide special discount offer for high and mid range price product
 
 
 
