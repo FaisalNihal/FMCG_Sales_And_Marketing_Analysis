@@ -134,6 +134,9 @@ Additional Features:
 
 
 
+
+
+
 ### Problems
 
 1.**Dhaka** is the **lowest  revenue** generating region ( Lowest number of customer and low  revenue per customer value)
@@ -145,6 +148,9 @@ Additional Features:
 4.**Low revenue per customer** generates in **online channel**, while profit% is also lower then other 2 channels
 
 5.High number of lost customers **(19.40%)** and at risk customers **(24%)** who have high chance of becoming lost customers
+
+
+
 
 
 
